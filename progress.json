@@ -1,0 +1,27 @@
+[
+  {
+    "exercise_name": "grocery-shopping",
+    "started_at": 1787118515.669535,
+    "completed_at": 1787118520.234597,
+    "comments": [
+      "There are no new grocery list items added to the shopping list."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "log-and-order",
+    "started_at": 1787120640.372279,
+    "completed_at": 1787120642.95815,
+    "comments": [],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "stage-fright",
+    "started_at": 1787116718.170934,
+    "completed_at": 1787116720.499617,
+    "comments": [
+      "Great work! You have successfully checked in all the actors!"
+    ],
+    "status": "Completed"
+  }
+]
