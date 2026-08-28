@@ -284,5 +284,14 @@
       "Great work with renaming the branches on your local repository!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "mix-messy-docs",
+    "started_at": 1787906147.491251,
+    "completed_at": 1787906150.515443,
+    "comments": [
+      "Great work using all of the concepts you've learnt about branching to mix the messy documentation!"
+    ],
+    "status": "Completed"
   }
 ]
