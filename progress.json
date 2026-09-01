@@ -302,5 +302,14 @@
       "Great work pushing the PQR branch to your fork!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "glossary-branch-pull",
+    "started_at": 1788276067.058756,
+    "completed_at": 1788276090.602487,
+    "comments": [
+      "Cmd('git') failed due to: exit code(128)\n  cmdline: git sparse-checkout set --skip-checks glossary_branch_pull/verify.py\n  stderr: 'fatal: unable to access 'https://github.com/git-mastery/exercises.git/': Failed to connect to github.com port 443 after 21077 ms: Could not connect to server\nfatal: could not fetch e5f78bf55b519af813f69521077726c4fcc7054e from promisor remote'"
+    ],
+    "status": "Error"
   }
 ]
